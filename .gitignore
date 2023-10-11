@@ -3,3 +3,6 @@
 *.fls
 *.synctex*
 *.log
+*.exe
+/.idea
+/cmake-build-debug
